@@ -10,7 +10,7 @@
 
 <div class="box">
     <article class="media">
-        <div class="media-left">
+        <div class="media-left is-hidden-mobile">
             <figure class="image">
                 <a href={url}>
                     <img src="thumbnails/{이미지}" alt="수료증이미지" srcset="thumbnails/{이미지} 2x"/>
